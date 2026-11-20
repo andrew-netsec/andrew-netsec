@@ -9,7 +9,7 @@ I am an aspiring **Network Security Engineer** passionate about building secure,
 
 
 <p align="center">
-<img width="1100"  alt="Screenshot From 2026-09-24 21-49-44" src="https://github.com/user-attachments/assets/a48e96e7-54f0-48cd-87d1-f5d687d32c99" />
+<img width="1100"  alt="Screenshot From 2026-09-24 21-49-44" src="https://github.com/user-attachments/assets/8bcfd270-b931-4e55-a82d-1e28028ff27f" />
 
 </p>
 
@@ -17,7 +17,7 @@ I am an aspiring **Network Security Engineer** passionate about building secure,
 
 * **CompTIA Security+** Verified expertise in core security principles, risk management, and threat mitigation.
 * **CompTIA Network+** Solid foundation in network architecture, operations, and troubleshooting.
-
+</p>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -38,17 +38,18 @@ I am an aspiring **Network Security Engineer** passionate about building secure,
 While configuring networks and studying security protocols is my current focus, other interests include building and operating an automated, robotic observatory from my suburban backyard. Designing, configuring, and operating this system has served as a real-world testing ground for advanced troubleshooting and critical systems triage. 
 
 Managing this infrastructure demands continuous diagnostic skills, including isolating USB serial bus dropouts, resolving remote desktop latency on Ethernet over Power bridges, diagnosing power distribution anomalies, and handling complex software integration conflicts under time-sensitive observation windows. I utilize this robust, high-availability environment for: 
-
+</p>
 * **Asteroid Tracking & Astrometry:** Deploying automated target sequences to capture and process astrometric data of Near-Earth Objects (NEOs). Verified measurements are formatted and submitted directly to the [IAU Minor Planet Center (MPC)](https://docs.minorplanetcenter.net/mpc-ops-docs/astrometry/reporting-observations/) to be used in precise orbital calculations.
 <p align="center">
 <img width="700"  alt="facebook_1790249366111_7508850077279579261" src="https://github.com/user-attachments/assets/de382c06-4b44-423c-817a-444f7254c383" />
 </p>
  
 * **Variable Star Monitoring:** Scheduling long-term photometric observation sessions to analyze stellar luminosity variations over time.
+* </p>
 * **Exoplanet Detection:** Capturing highly precise transit photometry data to identify subtle dips in stellar brightness caused by distant orbiting worlds.
 
 <img width="3852" height="1088" alt="facebook_1790248843827_7508847886661603302" src="https://github.com/user-attachments/assets/a1c20424-baf4-42a9-bacb-ca61ed3e9940" />
-
+</p>
 ### 🤝 Connect with Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/andrew-land-15b512126/](https://www.linkedin.com/in/andrew-land-15b512126/)
