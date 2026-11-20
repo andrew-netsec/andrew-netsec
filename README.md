@@ -42,14 +42,14 @@ Managing this infrastructure demands continuous diagnostic skills, including iso
 * **Asteroid Tracking & Astrometry:** Deploying automated target sequences to capture and process astrometric data of Near-Earth Objects (NEOs). Verified measurements are formatted and submitted directly to the [IAU Minor Planet Center (MPC)](https://docs.minorplanetcenter.net/mpc-ops-docs/astrometry/reporting-observations/) to be used in precise orbital calculations.
 <p align="center">
 <img width="700"  alt="facebook_1790249366111_7508850077279579261" src="https://github.com/user-attachments/assets/de382c06-4b44-423c-817a-444f7254c383" />
-</p>
+
  
 * **Variable Star Monitoring:** Scheduling long-term photometric observation sessions to analyze stellar luminosity variations over time.
-* </p>
+
 * **Exoplanet Detection:** Capturing highly precise transit photometry data to identify subtle dips in stellar brightness caused by distant orbiting worlds.
 
 <img width="3852" height="1088" alt="facebook_1790248843827_7508847886661603302" src="https://github.com/user-attachments/assets/a1c20424-baf4-42a9-bacb-ca61ed3e9940" />
-</p>
+
 ### 🤝 Connect with Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/andrew-land-15b512126/](https://www.linkedin.com/in/andrew-land-15b512126/)
