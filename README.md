@@ -38,7 +38,7 @@ I am an aspiring **Network Security Engineer** passionate about building secure,
 While configuring networks and studying security protocols is my current focus, other interests include building and operating an automated, robotic observatory from my suburban backyard. Designing, configuring, and operating this system has served as a real-world testing ground for advanced troubleshooting and critical systems triage. 
 
 Managing this infrastructure demands continuous diagnostic skills, including isolating USB serial bus dropouts, resolving remote desktop latency on Ethernet over Power bridges, diagnosing power distribution anomalies, and handling complex software integration conflicts under time-sensitive observation windows. I utilize this robust, high-availability environment for: 
-</p>
+
 * **Asteroid Tracking & Astrometry:** Deploying automated target sequences to capture and process astrometric data of Near-Earth Objects (NEOs). Verified measurements are formatted and submitted directly to the [IAU Minor Planet Center (MPC)](https://docs.minorplanetcenter.net/mpc-ops-docs/astrometry/reporting-observations/) to be used in precise orbital calculations.
 <p align="center">
 <img width="700"  alt="facebook_1790249366111_7508850077279579261" src="https://github.com/user-attachments/assets/de382c06-4b44-423c-817a-444f7254c383" />
