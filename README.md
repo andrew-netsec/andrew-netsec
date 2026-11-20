@@ -1,18 +1,12 @@
 ### Hi there, I'm Andrew 👋
 
-I am an aspiring **Network Security Administrator** passionate about building secure, reliable, and scalable infrastructure. I leverage a strong foundational background in both networking concepts and cybersecurity best practices to build, maintain and troubleshoot modern environments. 
+I am an aspiring **Network Security Engineer** passionate about building secure, reliable, and scalable infrastructure. I also have a strong interest in Network Automation. 
 
 
 ### 📡 Cisco CCNA Study Progress (Exam 200-301)
 
-⚡ Status: Active member of the NetworkChuck Academy 'Fall into CCNA' cohort, working through a structured learning plan with a target completion date of **Late 2026**.
+⚡ Status: Active member of the NetworkChuck Academy 'Fall into CCNA' cohort, working through a structured learning plan with a target completion date of **Late 2026 / Early 2027**.
 
-* [x] **Domain 1: Network Fundamentals** — *Currently studying Switching & Routing configurations via CLI in Cisco Packet Tracer, and CML*
-* [ ] **Domain 2: Network Access** 
-* [ ] **Domain 3: IP Connectivity** 
-* [ ] **Domain 4: IP Services** 
-* [ ] **Domain 5: Security Fundamentals** 
-* [ ] **Domain 6: Automation and Programmability** 
 
 <p align="center">
 <img width="1100"  alt="Screenshot From 2026-09-24 21-49-44" src="https://github.com/user-attachments/assets/a48e96e7-54f0-48cd-87d1-f5d687d32c99" />
@@ -21,8 +15,8 @@ I am an aspiring **Network Security Administrator** passionate about building se
 
 ### 🛡️ Certifications
 
-* **CompTIA Security+** — Verified expertise in core security principles, risk management, and threat mitigation.
-* **CompTIA Network+** — Solid foundation in network architecture, operations, and troubleshooting.
+* **CompTIA Security+** Verified expertise in core security principles, risk management, and threat mitigation.
+* **CompTIA Network+** Solid foundation in network architecture, operations, and troubleshooting.
 
 
 ### 🛠️ Tech Stack & Tools
@@ -55,6 +49,9 @@ Managing this infrastructure demands continuous diagnostic skills, including iso
 
 <img width="3852" height="1088" alt="facebook_1790248843827_7508847886661603302" src="https://github.com/user-attachments/assets/a1c20424-baf4-42a9-bacb-ca61ed3e9940" />
 
+### 🤝 Connect with Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/andrew-land-15b512126/](https://www.linkedin.com/in/andrew-land-15b512126/)
 <!--
 ### 🚀 Featured Projects
 
@@ -69,7 +66,5 @@ Managing this infrastructure demands continuous diagnostic skills, including iso
   * *Tech used:* Wireshark, Linux, PfSense
 
    
-### 🤝 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
